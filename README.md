@@ -50,8 +50,4 @@ _Add screenshots of your GUI or CLI interface here._
 
 ---
 
-## 🔧 How to Run
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/gym-management.git
