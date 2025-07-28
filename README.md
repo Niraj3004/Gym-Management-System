@@ -1,5 +1,5 @@
 
-# Gym Membership Management System 💪 (Java GUI Project)
+# Gym Membership Management System 💪 (Java GUI Project).
 
 A user-friendly Java application to manage gym members, built using Object-Oriented Programming principles. This project supports both **Regular** and **Premium** membership types with functionalities like attendance tracking, payment handling, membership upgrade, and more.
 
